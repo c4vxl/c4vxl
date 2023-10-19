@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-Hello there! I am a young software developer with a passion for both frontend and backend development.
+Hello there! I am a software developer with a passion for both frontend and backend development.
 My expertise spans across various programming languages, including JavaScript, Java, Kotlin, PHP, HTML, CSS, Python, and C.
 
 ## About Me
